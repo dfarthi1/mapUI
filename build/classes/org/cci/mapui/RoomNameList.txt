@@ -1,0 +1,34 @@
+3rd Floor Lounge,309
+4th Floor Lounge,403G
+Biomedical Research and Instrumentation Lab,432A
+CCI Partners Program,205E
+CCI Server Room,436
+CCI Student Center,208
+CCI Tech Support Office,335A
+CS Dept Chair,409
+Center for Configuration Analytics and Automation,335
+Complex Systems Institute,330B
+Conference Room,338
+Copier/Printer Room,421A
+Cyber Command - 49th Security Division,307
+Cyber Corps,305B
+CyberDNA Center,305A
+Data Privacy Lab,330A
+Data Science and Business Analytics Office,323C
+Diversity in IT Institute GA Office,233
+Diversity in IT Institute,230C
+Electronics Undergraduate Teaching Lab,232
+HCI Usability Lab,332
+Heuristic Search Lab,401
+Human Computer Interaction Lab,300
+Information and Infrastructure Security Lab,306
+Infrastructure Lab I,302
+Infrastructure Lab,334
+Intelligent Information Integration Lab,331
+Interaction Design Center,308
+Networking Research Lab,402
+Radiation Lab,431
+SIS Dept Chair,310A
+Student Projects Undergraduate Teaching Lab,231
+Student Organizations Office,209
+Visualization Lab,437
